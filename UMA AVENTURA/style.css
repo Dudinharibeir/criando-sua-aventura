@@ -1,0 +1,25 @@
+body{
+    background-color: #1d4221;
+    color: white;
+    font-family: font-family: "Sour Gummy", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin:0;
+
+}
+
+button{
+    background-color: green;
+    color: white;
+    font-family: font-family: "Sour Gummy", serif;
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
